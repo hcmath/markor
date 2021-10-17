@@ -84,7 +84,7 @@ public class ShareUtil {
     public final static SimpleDateFormat SDF_RFC3339_ISH = new SimpleDateFormat("yyyy-MM-dd'T'HH-mm-ss", Locale.getDefault());
     public final static SimpleDateFormat SDF_IMAGES = new SimpleDateFormat("yyyyMMdd-HHmmss", Locale.getDefault()); //20190511-230845
     public final static String MIME_TEXT_PLAIN = "text/plain";
-    public final static String PREF_KEY__SAF_TREE_URI = "pref_key__saf_tree_uri";
+    public final static String PREF_KEY__SAF_TREE_URI = "pref_key__saf_tree_uri_v2";
 
     public final static int REQUEST_CAMERA_PICTURE = 50001;
     public final static int REQUEST_PICK_PICTURE = 50002;
